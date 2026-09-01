@@ -1,0 +1,17 @@
+variavel;descricao;tipo_esperado;regra_dominio
+codigo_imovel;Código do anúncio do imóvel;texto;"esperado como identificador; verificar duplicidades"
+cidade;Cidade informada no anúncio;categoria;texto não vazio
+bairro;Bairro informado no anúncio;categoria;texto não vazio
+tipo_imovel;Tipo do imóvel;categoria;apartamento, casa, studio, cobertura ou kitnet
+mobilia;Condição de mobília;categoria;mobiliado, semi_mobiliado ou sem_mobilia
+aceita_pet;Indica se animais são aceitos;categoria;sim ou nao
+area_m2;Área privativa aproximada;numérico contínuo;"maior que zero; unidade m²"
+quartos;Quantidade de quartos;numérico discreto;inteiro entre 1 e 6
+banheiros;Quantidade de banheiros;numérico discreto;inteiro entre 1 e 6
+vagas_garagem;Quantidade de vagas de garagem;numérico discreto;inteiro entre 0 e 4
+andar;"Andar; zero representa imóvel térreo/casa";numérico discreto;inteiro não negativo
+idade_anos;Idade aproximada do imóvel;numérico contínuo;"maior ou igual a zero; unidade anos"
+distancia_centro_km;Distância aproximada ao centro;numérico contínuo;"maior ou igual a zero; unidade km"
+condominio_mensal_brl;Taxa mensal de condomínio;numérico contínuo;"maior ou igual a zero; BRL/mês"
+iptu_anual_brl;IPTU anual aproximado;numérico contínuo;"maior ou igual a zero; BRL/ano"
+aluguel_mensal_brl;"Valor mensal anunciado do aluguel; alvo";numérico contínuo;"maior que zero; BRL/mês"

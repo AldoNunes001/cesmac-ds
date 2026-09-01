@@ -1,0 +1,251 @@
+codigo_imovel;cidade;bairro;tipo_imovel;mobilia;aceita_pet;area_m2;quartos;banheiros;vagas_garagem;andar;idade_anos;distancia_centro_km;condominio_mensal_brl;iptu_anual_brl;aluguel_mensal_brl
+IMV-0001;Maceio;Farol;casa;mobiliado;sim;111.2;4;4;1;0;0.0;1.5;0.0;2273.12;5050.0
+IMV-0002;Maceio;Ponta Verde;casa;mobiliado;sim;153.1;5;4;2;0;29.0;3.3;260.0;3719.04;7220.0
+IMV-0003;Maceio;Tabuleiro;apartamento;sem_mobilia;sim;?;4;4;2;2;31.0;11.1;793.37;2057.34;4050.0
+IMV-0004;Maceio;Farol;apartamento;sem_mobilia;sim;39.0;3;2;1;7;20.0;0.7;467.51;1272.96;3510.0
+IMV-0005;Maceio;Jatiuca;apartamento;sem_mobilia;nao;60.3;2;2;1;5;31.0;3.6;?;2032.36;3310.0
+IMV-0006;Maceio;Jatiuca;apartamento;semi_mobiliado;sim;85.9;4;3;2;8;11.0;4.8;649.52;2435.64;5650.0
+IMV-0007;Maceio;Farol;apartamento;sem_mobilia;sim;62.3;3;2;1;14;1.0;3.4;546.27;1195.22;?
+IMV-0008;Maceio;Serraria;apartamento;sem_mobilia;nao;71.8;3;2;1;2;35.0;7.1;512.42;1310.19;3600.0
+IMV-0009;Maceio;Cruz das Almas;apartamento;sem_mobilia;sim;74.5;3;2;1;11;32.0;7.3;557.62;2013.55;3550.0
+IMV-0010;Maceio;Ponta Verde;kitnet;mobiliado;sim;28.2;1;1;1;10;?;4.1;271.3;1718.71;3880.0
+IMV-0011;Maceio;Jatiuca;casa;sem_mobilia;sim;150.5;5;4;1;0;38.0;4.1;260.0;3488.98;6220.0
+IMV-0012;Maceio;Gruta;cobertura;mobiliado;sim;181.8;4;3;2;20;32.0;5.5;1491.19;3395.51;7580.0
+IMV-0013;Maceio;Mangabeiras;apartamento;semi_mobiliado;sim;86.2;3;2;1;1;12.0;4.3;642.03;1935.8;5410.0
+IMV-0014;Maceio;Ponta Verde;apartamento;mobiliado;sim;49.2;1;2;1;1;6.0;1.3;493.64;?;4870.0
+IMV-0015;Maceio;Gruta;casa;sem_mobilia;sim;111.2;4;3;2;0;32.0;6.0;0.0;2465.88;4440.0
+IMV-0016;Maceio;Ponta Verde;apartamento;mobiliado;nao;63.6;3;3;1;4;21.0;1.5;469.8;2035.63;9120.0
+IMV-0017;Maceio;Jatiuca;casa;sem_mobilia;sim;167.4;6;5;2;0;37.0;4.6;?;3624.47;6730.0
+IMV-0018;Maceio;Tabuleiro;casa;semi_mobiliado;sim;118.6;5;3;1;0;13.0;10.0;260.0;2378.53;4920.0
+IMV-0019;Maceio;Tabuleiro;apartamento;mobiliado;sim;89.1;3;3;1;2;11.0;11.5;467.27;1792.23;3440.0
+IMV-0020;Maceio;Jatiuca;apartamento;sem_mobilia;sim;?;2;2;1;7;31.0;4.2;431.26;1450.84;2970.0
+IMV-0021;Maceio;Gruta;studio;mobiliado;sim;26.2;1;1;1;15;2.0;6.4;317.64;784.67;2590.0
+IMV-0022;Maceio;Ponta Verde;apartamento;semi_mobiliado;nao;41.1;2;2;1;10;30.0;4.1;378.6;1679.07;4690.0
+IMV-0023;Maceio;Tabuleiro;apartamento;semi_mobiliado;sim;88.5;3;3;1;16;18.0;9.9;533.87;1713.14;3520.0
+IMV-0024;Maceio;Cruz das Almas;apartamento;mobiliado;sim;58.9;3;3;2;9;27.0;7.9;541.6;1712.98;4600.0
+IMV-0025;Maceio;Serraria;casa;sem_mobilia;nao;145.3;4;4;1;0;29.0;8.6;0.0;2832.77;4840.0
+IMV-0026;Maceio;Mangabeiras;apartamento;?;nao;56.3;3;3;1;6;38.0;5.1;371.13;952.74;3710.0
+IMV-0027;Maceio;Serraria;apartamento;sem_mobilia;sim;79.5;2;2;2;2;6.0;9.2;448.01;1898.86;3390.0
+IMV-0028;Maceio;Mangabeiras;apartamento;semi_mobiliado;sim;65.8;3;2;1;14;40.0;4.4;553.17;1636.5;4180.0
+IMV-0029;Maceio;Serraria;cobertura;sem_mobilia;nao;119.8;5;4;1;19;35.0;9.7;1206.09;2644.27;5730.0
+IMV-0030;Maceio;Gruta;cobertura;mobiliado;nao;221.1;5;4;2;16;9.0;7.2;?;4519.77;9970.0
+IMV-0031;Maceio;Farol;kitnet;mobiliado;sim;28.7;1;1;0;16;39.0;1.8;250.86;1347.41;2160.0
+IMV-0032;Maceio;Tabuleiro;apartamento;sem_mobilia ;sim;82.9;3;2;1;16;32.0;11.2;613.13;1564.26;3470.0
+IMV-0033;Maceio;Farol;casa;sem_mobilia;sim;146.1;3;3;0;0;21.0;2.0;0.0;3285.57;4350.0
+IMV-0034;Maceio;Tabuleiro;apartamento;mobiliado;nao;64.0;2;2;0;17;12.0;10.3;462.83;1124.37;2850.0
+IMV-0035;Maceio;Farol;casa;semi_mobiliado;sim;?;4;4;2;0;25.0;2.9;0.0;2882.86;5120.0
+IMV-0036;Maceio;Gruta;apartamento;semi_mobiliado;sim;59.2;2;2;0;13;40.0;5.3;608.51;1744.27;2940.0
+IMV-0037;Maceio;Gruta;studio;mobiliado;nao;41.2;1;1;0;5;6.0;5.8;243.53;1206.11;3010.0
+IMV-0038;Maceio;Gruta;kitnet;mobiliado;nao;18.4;1;1;1;11;?;6.0;195.79;531.6;2410.0
+IMV-0039;Maceio;Cruz das Almas;apartamento;sem_mobilia;nao;118.4;4;3;1;14;10.0;8.2;832.09;1872.28;5160.0
+IMV-0040;Maceio;Cruz das Almas;apartamento;sem_mobilia;nao;87.8;3;2;0;10;17.0;5.5;640.28;2288.14;4350.0
+IMV-0041;Maceio;Tabuleiro;apartamento;sem_mobilia;nao;83.5;3;3;1;10;11.0;10.3;748.47;1861.7;3590.0
+IMV-0042;Maceio;Serraria;apartamento;sem_mobilia;sim;54.1;2;2;1;3;26.0;9.3;460.92;932.56;?
+IMV-0043;Maceio;Gruta;casa;sem_mobilia;sim;199.7;6;4;2;0;37.0;5.5;0.0;3817.4;6690.0
+IMV-0044;Maceio;Serraria;apartamento;semi_mobiliado;nao;89.5;3;3;0;11;31.0;9.2;624.52;1762.88;3380.0
+IMV-0045;Maceio;Ponta Verde;apartamento;mobiliado;sim;97.3;3;3;1;7;25.0;4.0;751.53;2604.83;6500.0
+IMV-0046;Maceio;Cruz das Almas;casa;sem_mobilia;nao;154.3;5;5;3;0;35.0;7.2;0.0;3339.77;6480.0
+IMV-0047;Maceio;Serraria;apartamento;sem_mobilia;nao;92.2;3;3;1;13;5.0;10.4;536.44;2432.66;3820.0
+IMV-0048;Maceio;Farol;apartamento;mobiliado;sim;107.2;4;4;1;2;9.0;3.7;574.17;1933.61;5380.0
+IMV-0049;Maceio;Jatiuca;apartamento;sem_mobilia;sim;75.5;3;3;1;6;35.0;2.8;?;1698.09;4610.0
+IMV-0050;Maceio;Mangabeiras;studio;semi_mobiliado;sim;40.4;1;1;0;12;29.0;3.8;306.08;1390.21;3090.0
+IMV-0051;Maceio;Tabuleiro;kitnet;sem_mobilia;sim;26.5;1;2;0;4;26.0;11.1;274.19;403.24;2140.0
+IMV-0052;Maceio;Serraria;apartamento;mobiliado;nao;78.3;4;3;1;15;4.0;8.9;733.28;1595.69;4400.0
+IMV-0053;Maceio;Tabuleiro;kitnet;sem_mobilia;nao;32.9;1;1;1;14;1.0;12.4;234.26;464.81;1210.0
+IMV-0054;Maceio;Cruz das Almas;casa;sem_mobilia;sim;190.3;5;4;3;0;8.0;7.1;0.0;3905.1;7280.0
+IMV-0055;Maceio;Jatiuca;casa;mobiliado;sim;163.5;4;4;3;0;1.0;3.8;0.0;3742.61;7930.0
+IMV-0056;Maceio;Jatiuca;casa;semi_mobiliado;nao;186.2;5;4;2;0;29.0;1.7;260.0;?;7550.0
+IMV-0057;Maceio;Tabuleiro;apartamento;sem_mobilia;nao;87.4;3;3;2;15;16.0;10.1;730.25;1559.39;3280.0
+IMV-0058;Maceio;Gruta;apartamento;mobiliado;sim;54.3;2;2;1;3;36.0;4.4;374.2;1517.15;3090.0
+IMV-0059;Maceio;Farol;studio;semi_mobiliado;sim;18.0;1;2;0;7;5.0;1.0;?;816.52;2260.0
+IMV-0060;Maceio;Tabuleiro;cobertura;semi_mobiliado;sim;168.6;5;5;2;17;27.0;12.0;1529.44;3048.58;7060.0
+IMV-0061;Maceio;Cruz das Almas;apartamento;mobiliado;nao;52.2;2;2;1;13;16.0;8.2;430.93;2019.02;3670.0
+IMV-0062;Maceio;Tabuleiro;casa;mobiliado;sim;?;3;2;0;0;22.0;10.9;0.0;1465.4;2510.0
+IMV-0063;Maceio;Tabuleiro;kitnet;semi_mobiliado;sim;32.2;1;1;1;12;8.0;9.3;343.22;607.14;1450.0
+IMV-0064;Maceio;Jatiuca;apartamento;mobiliado;sim;87.9;3;3;0;5;37.0;4.6;616.92;2407.46;5260.0
+IMV-0065;Maceio;Serraria;apartamento;sem_mobilia;nao;65.9;3;3;1;8;17.0;7.7;442.89;1067.18;3170.0
+IMV-0066;Maceio;Ponta Verde;apartamento;mobiliado;sim;18.0;3;2;0;2;33.0;3.0;212.94;1535.61;4380.0
+IMV-0067;Maceio;Jatiuca;studio;mobiliado;nao;30.9;1;1;1;9;7.0;5.5;274.63;744.49;3870.0
+IMV-0068;Maceio;Tabuleiro;apartamento;semi_mobiliado;nao;36.1;3;3;0;2;23.0;9.0;423.87;873.12;2750.0
+IMV-0069;Maceio;Ponta Verde;casa;sem_mobilia;sim;170.7;6;5;2;0;39.0;3.8;0.0;3615.96;7260.0
+IMV-0070;Maceio;Gruta;casa;sem_mobilia;sim;117.6;5;5;1;0;29.0;6.3;180.0;2781.76;4390.0
+IMV-0071;Maceio;Jatiuca;casa;sem_mobilia;sim;177.2;5;5;2;0;25.0;4.3;260.0;3995.17;7070.0
+IMV-0072;Maceio;Mangabeiras;casa;sem_mobilia;nao;29.5;2;2;0;0;34.0;5.0;350.0;2000.94;2930.0
+IMV-0073;Maceio;Ponta Verde;kitnet;mobiliado;nao;18.0;1;1;0;5;?;2.7;162.04;1351.63;3110.0
+IMV-0074;Maceio;Cruz das Almas;cobertura;sem_mobilia;nao;212.4;5;5;3;11;16.0;6.2;1705.12;4469.67;8900.0
+IMV-0075;Maceio;Ponta Verde;apartamento;sem_mobilia;nao;89.7;3;3;1;3;12.0;3.9;556.39;2493.83;5610.0
+IMV-0076;Maceio;Cruz das Almas;kitnet;semi_mobiliado;nao;21.6;1;1;0;10;18.0;10.1;227.04;1026.31;2450.0
+IMV-0077;Maceio;Mangabeiras;kitnet;semi_mobiliado;nao;20.5;1;1;1;7;34.0;5.3;171.12;1426.62;2330.0
+IMV-0078;Maceio;Jatiuca;apartamento;mobiliado;nao;83.7;3;4;1;8;21.0;2.7;712.65;1974.68;6100.0
+IMV-0079;Maceio;Jatiuca;apartamento;mobiliado;nao;70.1;3;3;1;3;2.0;3.0;540.45;2287.98;5160.0
+IMV-0080;Maceio;Mangabeiras;casa;semi_mobiliado;sim;98.6;4;4;1;0;24.0;5.0;350.0;?;5500.0
+IMV-0081;Maceio;Jatiuca;apartamento;mobiliado;sim;55.9;4;3;1;8;8.0;4.0;382.32;1920.54;5470.0
+IMV-0082;Maceio;Gruta;casa;sem_mobilia;sim;152.1;6;4;2;0;4.0;5.0;260.0;2434.56;6390.0
+IMV-0083;Maceio;Gruta;casa;sem_mobilia;sim;160.8;5;4;1;0;29.0;5.8;?;3362.7;5420.0
+IMV-0084;Maceio;Jatiuca;casa;mobiliado;sim;172.8;5;4;3;0;18.0;3.7;350.0;4050.51;7830.0
+IMV-0085;Maceio;Mangabeiras;casa;sem_mobilia;sim;170.6;5;5;2;0;14.0;5.7;350.0;3284.96;6670.0
+IMV-0086;Maceio;Gruta;studio;mobiliado;nao;28.9;1;1;1;10;18.0;5.2;269.56;920.71;3030.0
+IMV-0087;Maceio;Ponta Verde;apartamento;mobiliado;sim;66.1;3;3;2;5;11.0;3.5;399.98;2577.24;5870.0
+IMV-0088;Maceio;Tabuleiro;cobertura;semi_mobiliado;nao;243.4;5;5;3;13;30.0;8.8;1780.15;4250.47;9480.0
+IMV-0089;Maceio;Ponta Verde;casa;sem_mobilia;sim;82.8;4;3;1;0;38.0;4.0;0.0;2693.18;4830.0
+IMV-0090;Maceio;Mangabeiras;apartamento;mobiliado;sim;83.0;3;3;1;13;7.0;6.6;605.71;2664.96;9200.0
+IMV-0091;Maceio;Mangabeiras;kitnet;sem_mobilia;nao;29.0;1;1;0;3;10.0;5.3;322.52;1093.1;2030.0
+IMV-0092;Maceio;Serraria;casa;semi_mobiliado;sim;99.2;5;4;1;0;20.0;9.1;180.0;1796.91;4340.0
+IMV-0093;Maceio;Farol;casa;sem_mobilia;nao;131.0;3;3;1;0;3.0;1.9;350.0;2724.26;5390.0
+IMV-0094;Maceio;Gruta;studio;semi_mobiliado;sim;44.2;1;1;0;3;28.0;6.7;371.82;994.71;2540.0
+IMV-0095;Maceio;Tabuleiro;casa;sem_mobilia;sim;?;5;5;1;0;36.0;12.1;0.0;3972.25;5820.0
+IMV-0096;Maceio;Ponta Verde;apartamento;sem_mobilia;sim;65.5;3;2;1;7;30.0;3.4;488.05;2179.97;4460.0
+IMV-0097;Maceio;Gruta;apartamento;mobiliado;nao;66.9;3;3;1;4;?;5.6;515.06;1316.84;3800.0
+IMV-0098;Maceio;Ponta Verde;kitnet;mobiliado;sim;28.5;1;1;0;15;6.0;4.6;241.64;1532.14;3100.0
+IMV-0099;Maceio;Farol;kitnet;sem_mobilia;nao;18.0;1;1;0;11;0.0;2.4;231.54;752.2;1470.0
+IMV-0100;Maceio;Serraria;apartamento;sem_mobilia;nao;75.7;4;3;0;5;36.0;7.9;558.09;1484.12;2050.0
+IMV-0101;Maceio;Ponta Verde;apartamento;sem_mobilia;nao;41.6;2;2;1;16;4.0;3.2;646.67;1797.59;3820.0
+IMV-0102;Maceio;Tabuleiro;studio;mobiliado;sim;41.9;1;1;1;17;7.0;9.6;?;1238.73;3170.0
+IMV-0103;Maceio;Ponta Verde;apartamento;mobiliado;nao;67.6;2;2;2;11;36.0;4.1;503.2;2152.52;4460.0
+IMV-0104;Maceio;Jatiuca;apartamento;semi_mobiliado;nao;100.8;5;4;1;8;6.0;3.7;644.23;2543.89;?
+IMV-0105;Maceio;Cruz das Almas;studio;semi_mobiliado;sim;29.3;1;1;1;10;8.0;7.4;372.82;1068.62;3160.0
+IMV-0106;Maceio;Cruz das Almas;apartamento;semi_mobiliado;sim;77.4;4;4;1;7;31.0;6.4;439.92;2183.76;4540.0
+IMV-0107;Maceio;Tabuleiro;apartamento;semi_mobiliado;sim;78.4;3;3;1;10;25.0;10.1;661.35;1457.51;3750.0
+IMV-0108;Maceio;Serraria;casa;sem_mobilia;sim;119.7;5;4;1;0;18.0;8.0;0.0;2104.45;4010.0
+IMV-0109;Maceio;Mangabeiras;casa;semi_mobiliado;sim;161.4;5;3;1;0;26.0;4.0;0.0;?;6570.0
+IMV-0110;Maceio;Mangabeiras;casa;sem_mobilia;sim;89.3;4;3;1;0;6.0;4.5;180.0;2527.28;4840.0
+IMV-0111;Maceio;Gruta;casa;sem_mobilia;nao;134.2;3;3;1;0;4.0;5.4;260.0;2845.43;4710.0
+IMV-0112;Maceio;Serraria;studio;sem_mobilia;sim;35.2;1;1;1;7;?;9.4;356.57;811.93;2460.0
+IMV-0113;Maceio;Gruta;apartamento;sem_mobilia;sim;59.1;3;3;1;12;13.0;8.2;624.83;1068.0;3040.0
+IMV-0114;Maceio;Jatiuca;casa;semi_mobiliado;sim;182.5;6;5;2;0;4.0;5.2;0.0;3885.23;8640.0
+IMV-0115;Maceio;Farol;kitnet;sem_mobilia;sim;25.8;1;2;0;3;20.0;2.3;333.3;988.71;2010.0
+IMV-0116;Maceio;Tabuleiro;casa;sem_mobilia;sim;105.8;4;4;1;0;12.0;9.9;0.0;2041.46;3700.0
+IMV-0117;Maceio;Serraria;apartamento;semi_mobiliado;nao;97.9;3;3;1;9;7.0;8.3;690.57;1933.15;4910.0
+IMV-0118;Maceio;Ponta Verde;casa;?;sim;113.5;4;4;1;0;14.0;2.7;260.0;3221.25;6000.0
+IMV-0119;Maceio;Ponta Verde;kitnet;sem_mobilia;nao;?;1;2;0;3;7.0;5.6;283.67;1151.24;3370.0
+IMV-0120;Maceio;Jatiuca;apartamento;mobiliado;nao;57.3;3;3;0;1;35.0;3.6;489.0;1872.95;5020.0
+IMV-0121;Maceio;Serraria;kitnet;sem_mobilia;nao;30.9;1;1;0;11;28.0;7.5;238.44;417.11;650.0
+IMV-0122;Maceio;Gruta;casa;sem_mobilia;sim;152.6;5;4;2;0;40.0;4.8;180.0;2963.6;5340.0
+IMV-0123;Maceio;Tabuleiro;studio;sem_mobilia;nao;29.0;1;1;1;15;20.0;8.6;336.95;1039.81;900.0
+IMV-0124;Maceio;Farol;apartamento;sem_mobilia;sim;49.9;1;1;0;2;21.0;2.7;400.33;1094.63;1910.0
+IMV-0125;Maceio;Ponta Verde;casa;sem_mobilia;nao;142.7;5;4;1;0;3.0;3.7;0.0;3513.46;6650.0
+IMV-0126;Maceio;Serraria;casa;sem_mobilia;sim;150.8;6;4;2;0;14.0;9.5;0.0;2912.08;5410.0
+IMV-0127;Maceio;Gruta;apartamento;sem_mobilia;nao;63.8;3;3;0;16;1.0;5.1;?;2029.66;3600.0
+IMV-0128;Maceio;Tabuleiro;casa;sem_mobilia;sim;145.4;5;4;1;0;29.0;8.5;260.0;2885.89;4630.0
+IMV-0129;Maceio;Farol;apartamento;semi_mobiliado;sim;102.2;4;4;1;17;11.0;1.9;623.19;1949.89;5460.0
+IMV-0130;Maceio;Cruz das Almas;casa;sem_mobilia;sim;95.9;5;4;1;0;16.0;7.9;260.0;2255.74;5040.0
+IMV-0131;Maceio;Mangabeiras;apartamento;sem_mobilia;sim;94.1;4;3;1;9;38.0;6.5;673.59;2190.48;3990.0
+IMV-0132;Maceio;Serraria;apartamento;mobiliado;sim;56.2;4;3;2;1;39.0;8.7;413.92;1345.05;3850.0
+IMV-0133;Maceio;Cruz das Almas;apartamento;sem_mobilia ;nao;83.6;2;2;2;9;31.0;8.5;507.94;2167.94;4590.0
+IMV-0134;Maceio;Jatiuca;apartamento;mobiliado;nao;72.3;3;2;2;1;27.0;3.8;545.18;2190.72;5110.0
+IMV-0135;Maceio;Gruta;apartamento;sem_mobilia;sim;83.9;3;3;0;6;32.0;4.5;715.4;1664.74;2950.0
+IMV-0136;Maceio;Gruta;apartamento;mobiliado;nao;108.9;4;3;1;16;31.0;5.3;780.59;2440.32;4660.0
+IMV-0137;Maceio;Ponta Verde;apartamento;sem_mobilia;sim;53.2;2;2;1;8;12.0;2.8;508.57;1481.52;4230.0
+IMV-0138;Maceio;Gruta;apartamento;mobiliado;nao;40.7;1;1;1;12;11.0;6.7;523.39;1128.18;3430.0
+IMV-0139;Maceio;Cruz das Almas;apartamento;sem_mobilia;nao;84.6;4;4;2;7;30.0;6.2;673.66;2133.83;3720.0
+IMV-0140;Maceio;Ponta Verde;casa;semi_mobiliado;sim;?;5;4;3;0;34.0;3.9;180.0;4517.83;8270.0
+IMV-0141;Maceio;Farol;studio;mobiliado;nao;34.4;1;1;1;15;12.0;2.8;479.93;891.64;3400.0
+IMV-0142;Maceio;Tabuleiro;casa;semi_mobiliado;sim;67.1;3;2;1;0;26.0;10.4;260.0;1490.85;3200.0
+IMV-0143;Maceio;Mangabeiras;apartamento;sem_mobilia;sim;22.5;1;1;0;1;34.0;6.2;292.21;1421.13;2060.0
+IMV-0144;Maceio;Gruta;apartamento;sem_mobilia;sim;89.2;3;2;0;10;0.0;6.7;621.92;1887.38;4240.0
+IMV-0145;Maceio;Tabuleiro;apartamento;mobiliado;sim;104.3;5;4;1;16;23.0;9.4;783.22;2230.12;4320.0
+IMV-0146;Maceio;Cruz das Almas;cobertura;semi_mobiliado;nao;111.9;4;3;1;13;?;8.1;1190.26;2166.55;6720.0
+IMV-0147;Maceio;Ponta Verde;apartamento;mobiliado;nao;52.2;1;1;0;14;19.0;3.8;727.71;1592.73;4750.0
+IMV-0148;Maceio;Ponta Verde;apartamento;mobiliado;sim;75.3;3;2;1;17;17.0;4.0;627.22;2126.6;5550.0
+IMV-0149;Maceio;Serraria;apartamento;sem_mobilia;sim;68.4;3;3;0;11;18.0;8.6;?;1420.87;2590.0
+IMV-0150;Maceio;Farol;kitnet;sem_mobilia;sim;30.8;1;1;0;16;32.0;2.9;315.64;1351.06;1670.0
+IMV-0151;Maceio;Cruz das Almas;studio;mobiliado;sim;44.8;1;1;1;12;22.0;7.9;483.16;1838.0;3400.0
+IMV-0152;Maceio;Jatiuca;casa;sem_mobilia;sim;186.1;6;5;2;0;28.0;4.7;0.0;4322.16;7820.0
+IMV-0153;Maceio;Gruta;apartamento;mobiliado;sim;57.0;2;2;1;7;30.0;5.9;510.57;1895.93;3300.0
+IMV-0154;Maceio;Jatiuca;studio;semi_mobiliado;sim;34.9;1;1;1;5;25.0;3.7;288.43;1820.68;3830.0
+IMV-0155;Maceio;Mangabeiras;apartamento;semi_mobiliado;nao;99.3;3;3;1;1;7.0;4.6;825.97;2027.43;5360.0
+IMV-0156;Maceio;Farol;apartamento;semi_mobiliado;nao;69.8;3;3;2;12;37.0;3.8;476.68;2007.68;3950.0
+IMV-0157;Maceio;Mangabeiras;studio;mobiliado;sim;37.0;1;1;1;8;15.0;4.2;291.36;?;3210.0
+IMV-0158;Maceio;Tabuleiro;casa;sem_mobilia;nao;127.5;3;3;0;0;2.0;10.6;0.0;2272.27;3990.0
+IMV-0159;Maceio;Gruta;apartamento;sem_mobilia;nao;110.4;4;4;1;11;2.0;6.7;653.66;2310.4;5490.0
+IMV-0160;Maceio;Jatiuca;cobertura;sem_mobilia;sim;277.7;6;6;2;14;15.0;3.9;1843.16;5583.68;11230.0
+IMV-0161;Maceio;Mangabeiras;apartamento;semi_mobiliado;nao;62.1;3;3;2;3;8.0;3.6;435.48;1426.7;4840.0
+IMV-0162;Maceio;Tabuleiro;apartamento;sem_mobilia;sim;113.5;4;3;0;5;18.0;9.2;728.51;1951.3;3320.0
+IMV-0163;Maceio;Ponta Verde;apartamento;mobiliado;sim;46.5;2;2;1;14;30.0;3.1;506.92;1434.83;4570.0
+IMV-0164;Maceio;Farol;apartamento;sem_mobilia;nao;70.1;3;2;1;3;1.0;3.4;615.86;1756.26;4210.0
+IMV-0165;Maceio;Gruta;apartamento;mobiliado;sim;81.0;3;2;1;10;13.0;6.0;669.88;1785.73;4240.0
+IMV-0166;Maceio;Gruta;casa;sem_mobilia;nao;120.4;4;4;1;0;33.0;5.9;0.0;2269.89;4380.0
+IMV-0167;Maceio;Serraria;apartamento;mobiliado;sim;58.5;4;3;0;15;40.0;6.7;657.57;965.87;3500.0
+IMV-0168;Maceio;Farol;apartamento;semi_mobiliado;sim;50.8;3;2;1;7;35.0;1.9;?;1311.06;2750.0
+IMV-0169;Maceio;Cruz das Almas;kitnet;mobiliado;nao;18.0;1;2;1;17;25.0;7.7;250.11;785.1;2420.0
+IMV-0170;Maceio;Gruta;casa;semi_mobiliado;sim;178.9;5;4;2;0;16.0;4.7;260.0;3114.39;7010.0
+IMV-0171;Maceio;Tabuleiro;apartamento;sem_mobilia;sim;118.5;4;3;2;11;20.0;10.3;843.01;2303.81;6740.0
+IMV-0172;Maceio;Farol;casa;mobiliado;sim;111.9;5;4;1;0;14.0;2.8;0.0;1903.17;5310.0
+IMV-0173;Maceio;Cruz das Almas;apartamento;mobiliado;nao;108.5;4;4;2;4;40.0;7.8;896.0;2235.95;5660.0
+IMV-0174;Maceio;Gruta;apartamento;semi_mobiliado;sim;108.9;4;3;1;2;34.0;4.6;737.41;2250.85;4820.0
+IMV-0175;Maceio;Ponta Verde;apartamento;mobiliado;sim;108.1;5;4;1;9;29.0;3.5;783.41;2597.12;7190.0
+IMV-0176;Maceio;Mangabeiras;apartamento;semi_mobiliado;sim;29.3;2;1;0;10;5.0;5.3;496.03;1063.08;2680.0
+IMV-0177;Maceio;Cruz das Almas;apartamento;semi_mobiliado;sim;?;3;3;1;12;27.0;7.1;503.04;2115.52;3730.0
+IMV-0178;Maceio;Tabuleiro;apartamento;mobiliado;nao;121.7;5;4;1;11;9.0;8.9;702.93;2383.56;5890.0
+IMV-0179;Maceio;Jatiuca;casa;mobiliado;sim;121.5;4;3;1;0;29.0;4.9;0.0;2701.68;6430.0
+IMV-0180;Maceio;Serraria;apartamento;sem_mobilia;sim;91.3;3;2;1;8;40.0;9.2;495.65;1771.02;3770.0
+IMV-0181;Maceio;Ponta Verde;apartamento;sem_mobilia;sim;72.8;3;3;1;11;6.0;5.4;465.76;2097.03;4960.0
+IMV-0182;Maceio;Ponta Verde;apartamento;semi_mobiliado;sim;98.5;4;4;0;8;6.0;4.3;793.66;?;6090.0
+IMV-0183;Maceio;Tabuleiro;apartamento;mobiliado;sim;38.1;2;1;1;7;24.0;11.4;441.67;535.65;1880.0
+IMV-0184;Maceio;Mangabeiras;casa;sem_mobilia;sim;49.5;2;2;0;0;21.0;5.8;0.0;1483.73;2690.0
+IMV-0185;Maceio;Jatiuca;apartamento;sem_mobilia;nao;72.9;3;3;0;13;12.0;5.6;536.9;2598.34;4400.0
+IMV-0186;Maceio;Ponta Verde;studio;sem_mobilia;sim;46.6;1;2;0;4;16.0;2.5;531.89;1698.52;3830.0
+IMV-0187;Maceio;Serraria;apartamento;semi_mobiliado;sim;73.1;3;2;0;16;34.0;7.3;625.49;1644.86;2700.0
+IMV-0188;Maceio;Gruta;apartamento;semi_mobiliado;sim;43.3;2;2;0;9;9.0;6.6;387.17;1141.96;2770.0
+IMV-0189;Maceio;Gruta;apartamento;sem_mobilia;nao;94.5;3;3;1;13;?;5.1;550.9;1913.3;3880.0
+IMV-0190;Maceio;Tabuleiro;casa;sem_mobilia;sim;142.4;4;4;3;0;29.0;9.3;0.0;2898.76;4720.0
+IMV-0191;Maceio;Gruta;cobertura;mobiliado;sim;140.0;4;4;1;20;36.0;5.9;?;2512.48;7650.0
+IMV-0192;Maceio;Farol;apartamento;semi_mobiliado;sim;87.3;2;2;1;2;33.0;1.7;712.78;1353.39;4060.0
+IMV-0193;Maceio;Cruz das Almas;apartamento;mobiliado;sim;117.6;4;4;2;10;27.0;8.2;638.91;2711.52;6440.0
+IMV-0194;Maceio;Jatiuca;studio;semi_mobiliado;sim;26.1;1;1;0;13;27.0;5.3;382.6;1500.95;3330.0
+IMV-0195;Maceio;Cruz das Almas;casa;sem_mobilia;sim;47.2;1;2;0;0;8.0;8.8;0.0;1507.94;2490.0
+IMV-0196;Maceio;Tabuleiro;apartamento;sem_mobilia;sim;49.7;1;1;1;5;4.0;10.6;379.35;831.9;1620.0
+IMV-0197;Maceio;Ponta Verde;casa;sem_mobilia;sim;96.5;3;3;1;0;14.0;4.4;0.0;2763.4;5140.0
+IMV-0198;Maceio;Jatiuca;apartamento;sem_mobilia;sim;85.8;2;2;0;5;34.0;4.6;652.74;2555.6;4590.0
+IMV-0199;Maceio;Tabuleiro;studio;mobiliado;nao;41.9;1;1;1;8;4.0;11.3;257.68;810.77;?
+IMV-0200;Maceio;Cruz das Almas;studio;mobiliado;sim;29.4;1;1;1;14;7.0;8.4;382.25;747.48;3710.0
+IMV-0201;Maceio;Mangabeiras;apartamento;sem_mobilia;nao;47.6;2;2;1;14;19.0;5.5;511.87;1383.11;2850.0
+IMV-0202;Maceio;Farol;apartamento;sem_mobilia;sim;?;1;1;0;10;29.0;3.0;437.77;1125.16;1940.0
+IMV-0203;Maceio;Farol;apartamento;mobiliado;nao;112.0;4;4;2;9;15.0;3.6;816.21;2810.23;5980.0
+IMV-0204;Maceio;Tabuleiro;apartamento;mobiliado;sim;124.4;5;4;1;14;2.0;8.9;637.21;2452.28;4690.0
+IMV-0205;Maceio;Mangabeiras;casa;sem_mobilia;sim;124.1;4;3;1;0;8.0;7.2;0.0;2993.49;5290.0
+IMV-0206;Maceio;Serraria;apartamento;?;nao;97.9;3;3;1;4;28.0;8.3;700.54;1797.01;3900.0
+IMV-0207;Maceio;Jatiuca;apartamento;sem_mobilia;sim;81.5;3;3;1;8;40.0;3.0;762.54;2242.37;4200.0
+IMV-0208;Maceio;Tabuleiro;studio;mobiliado;sim;37.0;1;1;1;5;34.0;11.1;247.37;740.81;2570.0
+IMV-0209;Maceio;Mangabeiras;apartamento;sem_mobilia;nao;40.9;2;1;2;14;15.0;3.3;415.17;1691.74;2740.0
+IMV-0210;Maceio;Tabuleiro;cobertura;mobiliado;sim;147.7;5;4;1;16;29.0;11.4;1360.46;2588.99;6950.0
+IMV-0211;Maceio;Jatiuca;casa;sem_mobilia;nao;108.5;4;3;2;0;40.0;4.8;0.0;2506.33;5360.0
+IMV-0212;Maceio;Gruta;casa;mobiliado;sim;185.3;5;4;3;0;29.0;5.6;0.0;3037.09;7530.0
+IMV-0213;Maceio;Farol;kitnet;mobiliado;nao;29.2;1;2;0;13;22.0;2.2;285.66;1148.54;1820.0
+IMV-0214;Maceio;Mangabeiras;casa;sem_mobilia;nao;95.0;4;3;1;0;2.0;7.8;?;2134.53;4830.0
+IMV-0215;Maceio;Ponta Verde;casa;sem_mobilia;sim;188.2;5;4;1;0;26.0;3.7;350.0;4058.92;7040.0
+IMV-0216;Maceio;Jatiuca;casa;sem_mobilia;sim;89.0;2;2;0;0;18.0;3.7;0.0;2937.71;4640.0
+IMV-0217;Maceio;Ponta Verde;studio;mobiliado;sim;36.6;1;2;0;3;26.0;3.4;439.29;1891.1;3540.0
+IMV-0218;Maceio;Mangabeiras;apartamento;semi_mobiliado;sim;54.8;3;2;0;1;37.0;4.3;472.28;1914.4;3830.0
+IMV-0219;Maceio;Cruz das Almas;apartamento;sem_mobilia;sim;116.8;3;3;1;10;0.0;5.6;622.54;2612.43;4650.0
+IMV-0220;Maceio;Jatiuca;casa;sem_mobilia ;sim;145.5;3;3;1;0;19.0;3.0;0.0;2932.65;6170.0
+IMV-0221;Maceio;Gruta;cobertura;sem_mobilia;nao;-48.0;4;4;2;14;1.0;5.8;1267.66;2707.34;6680.0
+IMV-0222;Maceio;Jatiuca;casa;sem_mobilia;sim;112.2;4;3;2;0;9.0;-2.3;0.0;2234.0;5880.0
+IMV-0223;Maceio;Farol;casa;sem_mobilia;sim;98.2;4;3;1;0;30.0;4.8;260.0;2308.38;3980.0
+IMV-0224;Maceio;Mangabeiras;studio;sem_mobilia;sim;35.6;1;1;1;7;6.0;5.0;315.77;1255.99;3110.0
+IMV-0225;Maceio;Cruz das Almas;casa;sem_mobilia;nao;64.1;3;3;1;0;25.0;6.1;260.0;?;3460.0
+IMV-0226;Maceio;Jatiuca;apartamento;sem_mobilia;nao;79.7;3;2;0;5;30.0;3.9;633.1;2061.28;3970.0
+IMV-0227;Maceio;Tabuleiro;casa;sem_mobilia;nao;124.1;3;3;1;0;14.0;11.0;260.0;2149.61;4060.0
+IMV-0228;Maceio;Gruta;kitnet;sem_mobilia;nao;29.4;1;1;0;9;37.0;5.6;334.83;1055.85;1280.0
+IMV-0229;Maceio;Farol;apartamento;sem_mobilia;sim;68.8;2;2;1;1;1.0;3.6;602.49;1437.79;3830.0
+IMV-0230;Maceio;Serraria;apartamento;sem_mobilia;sim;52.2;2;2;1;5;7.0;8.8;329.67;1654.34;1860.0
+IMV-0231;Maceio;Gruta;casa;sem_mobilia;nao;121.9;4;4;2;0;29.0;5.0;0.0;2505.46;4340.0
+IMV-0232;Maceio;Jatiuca;casa;sem_mobilia;nao;224.5;4;4;2;0;22.0;2.9;180.0;4810.69;8130.0
+IMV-0233;Maceio;Gruta;studio;mobiliado;sim;30.1;1;2;0;1;30.0;4.9;?;829.99;2520.0
+IMV-0234;Maceio;Mangabeiras;apartamento;sem_mobilia;sim;81.1;3;3;1;9;28.0;5.8;643.27;2042.86;4290.0
+IMV-0235;Maceio;Jatiuca;casa;sem_mobilia;sim;157.9;5;4;2;0;29.0;3.7;260.0;3361.18;6990.0
+IMV-0236;Maceio;Tabuleiro;casa;semi_mobiliado;sim;118.9;5;3;1;0;35.0;9.1;0.0;2232.54;4040.0
+IMV-0237;Maceio;Mangabeiras;studio;mobiliado;nao;47.3;1;1;0;2;23.0;7.4;451.0;1138.29;3580.0
+IMV-0238;Maceio;Gruta;apartamento;mobiliado;nao;114.6;4;3;1;1;27.0;7.1;817.44;2470.24;5010.0
+IMV-0239;Maceio;Gruta;casa;sem_mobilia;sim;126.3;4;4;2;0;36.0;4.1;0.0;2816.34;4160.0
+IMV-0240;Maceio;Cruz das Almas;cobertura;mobiliado;sim;132.4;4;4;2;20;22.0;7.2;1355.97;?;7170.0
+IMV-0241;Maceio;Jatiuca;apartamento;mobiliado;nao;74.3;3;2;1;13;10.0;5.8;592.77;1581.76;5930.0
+IMV-0242;Maceio;Mangabeiras;apartamento;semi_mobiliado;nao;76.0;2;3;1;16;17.0;5.3;630.52;2197.35;4280.0
+IMV-0243;Maceio;Mangabeiras;apartamento;sem_mobilia;nao;90.6;4;3;1;14;2.0;5.5;705.11;2393.29;4000.0
+IMV-0244;Maceio;Ponta Verde;apartamento;mobiliado;sim;100.8;3;2;1;13;5.0;3.2;554.19;2427.64;5470.0
+IMV-0245;Maceio;Serraria;casa;semi_mobiliado;sim;174.6;5;4;2;0;39.0;9.0;0.0;2700.03;6110.0
+IMV-0246;Maceio;Jatiuca;studio;sem_mobilia;nao;45.6;1;1;0;5;13.0;4.9;545.89;1264.63;3250.0
+IMV-0247;Maceio;Ponta Verde;casa;semi_mobiliado;sim;156.4;5;4;3;0;36.0;2.9;260.0;3355.26;7110.0
+IMV-0009;Maceio;Cruz das Almas;apartamento;sem_mobilia;sim;74.5;3;2;1;11;32.0;7.3;557.62;2013.55;3550.0
+IMV-0075;Maceio;Ponta Verde;apartamento;sem_mobilia;nao;89.7;3;3;1;3;12.0;3.9;556.39;2493.83;5610.0
+IMV-0161;Maceio;Mangabeiras;apartamento;semi_mobiliado;nao;62.1;3;3;2;3;8.0;3.6;435.48;1426.7;4840.0
