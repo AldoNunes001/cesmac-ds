@@ -1,0 +1,5 @@
+numpy>=1.24,<3
+pandas>=2,<4
+matplotlib>=3.7,<4
+scikit-learn>=1.4,<2
+jupyterlab>=4,<5

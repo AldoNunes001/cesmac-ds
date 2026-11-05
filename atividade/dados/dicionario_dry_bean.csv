@@ -1,0 +1,18 @@
+variavel,papel,descricao,unidade_ou_escala
+Area,atributo,Área ocupada pelo grão na imagem.,pixels de área
+Perimeter,atributo,Comprimento do contorno do grão.,escala da imagem
+MajorAxisLength,atributo,Comprimento do eixo maior do grão.,escala da imagem
+MinorAxisLength,atributo,Comprimento do eixo perpendicular ao eixo maior.,escala da imagem
+AspectRation,atributo,Razão entre os eixos maior e menor; grafia original do ARFF.,adimensional
+Eccentricity,atributo,Excentricidade da elipse associada à região do grão.,adimensional
+ConvexArea,atributo,Área do envoltório convexo que contém o grão.,pixels de área
+EquivDiameter,atributo,Diâmetro de um círculo com a mesma área do grão.,escala da imagem
+Extent,atributo,Fração da caixa delimitadora ocupada pelo grão.,adimensional
+Solidity,atributo,Área do grão dividida pela área de seu envoltório convexo.,adimensional
+roundness,atributo,Circularidade calculada por 4*pi*Area/Perimeter²; nome original em minúsculas.,adimensional
+Compactness,atributo,Razão entre diâmetro equivalente e eixo maior.,adimensional
+ShapeFactor1,atributo,Primeiro fator de forma fornecido pelos autores.,fator numérico
+ShapeFactor2,atributo,Segundo fator de forma fornecido pelos autores.,fator numérico
+ShapeFactor3,atributo,Terceiro fator de forma fornecido pelos autores.,fator numérico
+ShapeFactor4,atributo,Quarto fator de forma fornecido pelos autores.,fator numérico
+Class,rotulo_original_nao_usar_em_X,Variedade do grão: SEKER; BARBUNYA; BOMBAY; CALI; HOROZ; SIRA; DERMASON.,categoria
